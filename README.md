@@ -1,0 +1,1 @@
+Estudos de JavaScript utilizando o curso "Curso de JavaScript Completo do iniciante ao mestre" de Daniel Tapias Morales, na Udemy
